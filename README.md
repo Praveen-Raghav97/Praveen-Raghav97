@@ -36,13 +36,13 @@ I’m **Praveen Raghav**, a passionate **Full Stack Developer** and **MERN Stack
 
 ## 🧑‍💻 Projects
 
-### 1. [Zerodha Kite Dashboard Clone](https://github.com/Praveen-Raghav97/zerodha-kite-clone)
+### 1. [Zerodha Kite Dashboard Clone](https://github.com/Praveen-Raghav97/zerodha-app1)
 > A fully responsive, real-time stock trading dashboard built using the MERN stack, Material UI, and Tailwind CSS.
 
-### 2. [Movie Ticket Booking App](https://github.com/your-github-username/movie-ticket-booking-app)
+### 2. [Movie Ticket Booking App](https://github.com/Praveen-Raghav97/Movie-Ticket-Booking)
 > A MERN-based application with user and admin panels for booking movie tickets.
 
-### 3. [Real Estate Room Rental App](https://github.com/your-github-username/real-estate-rental-app)
+### 3. [Real Estate Room Rental App](https://github.com/Praveen-Raghav97/Roomer_APP_Mern_Web)
 > A React.js-based platform with an admin panel, allowing users to rent rooms and flats.
 
 ### 4. [Dribble Clone](https://github.com/your-github-username/dribble-clone)
@@ -54,7 +54,7 @@ I’m **Praveen Raghav**, a passionate **Full Stack Developer** and **MERN Stack
 
 - **Email**: [rishavthakur9027@gmail.com](rishavthakur9027@gmail.com)
 - **LinkedIn**: [linkedin.com/in/praveen-raghav-17a322222](https://www.linkedin.com/in/praveen-raghav-17a322222)
-- **Portfolio**: [www.piyushgarg.dev](https://your-portfolio-link.com)
+- **Portfolio**: [www.praveen-raghav.com](https://praveen-raghav.vercel.app)
 
 Feel free to check out my repositories and connect with me for collaborations or discussions on exciting projects.
 
