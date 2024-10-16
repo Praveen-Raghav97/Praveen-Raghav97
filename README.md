@@ -29,8 +29,8 @@ I’m **Praveen Raghav**, a passionate **Full Stack Developer** and **MERN Stack
 
 ## 📈 GitHub Stats
 
-![Praveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Praveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveen-Raghav97&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Raghav97&layout=compact&theme=radical)
 
 ---
 
@@ -53,7 +53,7 @@ I’m **Praveen Raghav**, a passionate **Full Stack Developer** and **MERN Stack
 ## 📞 Contact Me
 
 - **Email**: [rishavthakur9027@gmail.com](rishavthakur9027@gmail.com)
-- **LinkedIn**: [linkedin.com/in/piyushgarg](https://linkedin.com/in/piyushgarg)
+- **LinkedIn**: [linkedin.com/in/praveen-raghav-17a322222](https://www.linkedin.com/in/praveen-raghav-17a322222)
 - **Portfolio**: [www.piyushgarg.dev](https://your-portfolio-link.com)
 
 Feel free to check out my repositories and connect with me for collaborations or discussions on exciting projects.
