@@ -1,6 +1,6 @@
-# Piyush Garg | Full Stack Developer | MERN Stack Specialist
+# Praveen Raghav | Full Stack Developer | MERN Stack Specialist
 
-![Banner](https://your-image-url.com) <!-- Optional: Add a banner image -->
+![Banner]([https://your-image-url.com](https://img.freepik.com/free-photo/3d-rendering-cartoon-like-man-working-computer_23-2150797614.jpg?size=626&ext=jpg&ga=GA1.1.887255499.1708355479&semt=ais_hybrid) <!-- Optional: Add a banner image -->
 
 ## 👋 Hello! Welcome to My GitHub Profile
 
@@ -13,7 +13,7 @@ I’m **Praveen Raghav**, a passionate **Full Stack Developer** and **MERN Stack
 ### **Frontend**  
 - **Languages**: HTML, CSS, JavaScript, TypeScript  
 - **Frameworks & Libraries**: React.js, Next.js, Redux, Tailwind CSS, Material UI, Bootstrap  
-- **Tools**: Vite, Webpack, Figma, Git, VS Code  
+- **Tools**: Vite, Webpack, Figma, Git, VS Code  , Docker , Reddis , Aws
 
 ### **Backend**  
 - **Languages**: Node.js  
@@ -29,7 +29,7 @@ I’m **Praveen Raghav**, a passionate **Full Stack Developer** and **MERN Stack
 
 ## 📈 GitHub Stats
 
-![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Praveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 ---
