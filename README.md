@@ -53,7 +53,7 @@ I’m **Praveen Raghav**, a passionate **Full Stack Developer** and **MERN Stack
 ## 📞 Contact Me
 
 - **Email**: [rishavthakur9027@gmail.com](rishavthakur9027@gmail.com)
-- **LinkedIn**: [linkedin.com/in/praveen-raghav-17a322222](https://www.linkedin.com/in/praveen-raghav)
+- **LinkedIn**: [linkedin.com/in/praveen-raghav](https://www.linkedin.com/in/praveen-raghav)
 - **Portfolio**: [www.praveen-raghav.com](https://praveen-raghav.vercel.app)
 
 Feel free to check out my repositories and connect with me for collaborations or discussions on exciting projects.
