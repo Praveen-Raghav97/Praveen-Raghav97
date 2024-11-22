@@ -35,29 +35,14 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs," />
+        <img src="https://skillicons.dev/icons?i=bootstrap,shadcn,acertinity,daizyui,nextui,mui" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,typescript,express,clerk,firebase,mongodb,prisma,mysql" /><br>
 </div>
 
 <br/>
 <hr/>
-
-
-
-<hr/>
-
-
-
-
-
-
-
-
-
 <br/>
-
-
-
 # Praveen Raghav | Full Stack Developer | MERN Stack Specialist
 
 ![Banner]([https://your-image-url.com](https://img.freepik.com/free-photo/3d-rendering-cartoon-like-man-working-computer_23-2150797614.jpg?size=626&ext=jpg&ga=GA1.1.887255499.1708355479&semt=ais_hybrid) <!-- Optional: Add a banner image -->
