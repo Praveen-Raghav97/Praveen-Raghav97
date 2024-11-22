@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Docker, Reddis , Kafka , AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything **
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nextauth,bootstrap,tailwind,git,github,postmen,thunderclient" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,bootstrap,tailwind,git,github,postman," />
  <img src="https://skillicons.dev/icons?i=java,nodejs,typescript,express,firebase,mongodb,prisma,mysql,vercel,netlify,aws" /><br>
 </div>
 
