@@ -82,17 +82,22 @@ I’m **Praveen Raghav**, a passionate **Full Stack Developer** and **MERN Stack
 
 ## 🧑‍💻 Projects
 
-### 1. [Zerodha Kite Dashboard Clone](https://github.com/Praveen-Raghav97/zerodha-app1)
-> A fully responsive, real-time stock trading dashboard built using the MERN stack, Material UI, and Tailwind CSS.
+### 1. [Frenmy (A Real Time Chat App)](https://github.com/Praveen-Raghav97/chat-app-home)
+> A fully responsive, A real-time chat app  dashboard built using the MERN stack and sokit.io daisy ui, Material UI, and Tailwind CSS.
 
-### 2. [Movie Ticket Booking App](https://github.com/Praveen-Raghav97/Movie-Ticket-Booking)
+
+### 2. [Cloudex (Web Storage App) ](https://github.com/Praveen-Raghav97/cloudex-home)
+>  cloud storage and file management. With CloudEx, experience the power of secure, fast, and user-friendly cloud storage designed for developers, businesses, and individuals alike.
+ 
+ ### 3. [flexibble (A Project Sharing Plateform)](https://github.com/your-github-username/flexibble-app)
+> A dribble-inspired web application featuring real-time post sharing and a sleek design.
+ 
+### 4. [Movie Ticket Booking App](https://github.com/Praveen-Raghav97/Movie-Ticket-Booking)
 > A MERN-based application with user and admin panels for booking movie tickets.
 
-### 3. [Real Estate Room Rental App](https://github.com/Praveen-Raghav97/Roomer_APP_Mern_Web)
-> A React.js-based platform with an admin panel, allowing users to rent rooms and flats.
 
-### 4. [Dribble Clone](https://github.com/your-github-username/dribble-clone)
-> A dribble-inspired web application featuring real-time post sharing and a sleek design.
+
+
 
 ---
 
