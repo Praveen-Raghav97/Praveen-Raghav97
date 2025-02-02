@@ -89,7 +89,7 @@ I’m **Praveen Raghav**, a passionate **Full Stack Developer** and **MERN Stack
 ### 2. [Cloudex (Web Storage App) ](https://github.com/Praveen-Raghav97/cloudex-home)
 >  cloud storage and file management. With CloudEx, experience the power of secure, fast, and user-friendly cloud storage designed for developers, businesses, and individuals alike.
  
- ### 3. [flexibble (A Project Sharing Plateform)](https://github.com/your-github-username/flexibble-app)
+ ### 3. [flexibble (A Project Sharing Plateform)](https://github.com/Praveen-Raghav97/flexibble-app)
 > A dribble-inspired web application featuring real-time post sharing and a sleek design.
  
 ### 4. [Movie Ticket Booking App](https://github.com/Praveen-Raghav97/Movie-Ticket-Booking)
