@@ -46,7 +46,7 @@
 
 # Praveen Raghav | Full Stack Developer | MERN Stack Specialist
 
- <img align="center"  src='https://img.freepik.com/free-photo/3d-rendering-cartoon-like-man-working-computer_23-2150797614.jpg?size=626&ext=jpg&ga=GA1.1.887255499.1708355479&semt=ais_hybrid' />
+
 
 ## 👋 Hello! Welcome to My GitHub Profile
 
