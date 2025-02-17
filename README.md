@@ -82,6 +82,46 @@ I’m **Praveen Raghav**, a passionate **Full Stack Developer** and **MERN Stack
 
 ## 🧑‍💻 Projects
 
+<div>
+    <div>
+  ### [Frenmy (A Real Time Chat Web)](#)
+![Project Thumbnail](https://res.cloudinary.com/derlbfbjz/image/upload/v1738163156/Screenshot_2025-01-29_203512_yvmwje.png)
+
+**Description:** A fully responsive, A real-time chat app  dashboard built using the MERN stack and sokit.io daisy ui, Material UI, and Tailwind CSS.
+
+🔗 [Live Preview](#https://chat-app-home.vercel.app) • 💻 [GitHub Code](#https://github.com/Praveen-Raghav97/chat-app-home)
+
+</div>
+<div>
+  ### [Cloudex (A Cloude Web Storage)](#)
+![Project Thumbnail](https://res.cloudinary.com/derlbfbjz/image/upload/v1735470243/Screenshot_2024-12-29_153425_va7elo.png)
+
+**Description:** cloud storage and file management. With CloudEx, experience the power of secure, fast, and user-friendly cloud storage designed for developers, businesses, and individuals alike.
+
+🔗 [Live Preview](#https://cloudex-home.vercel.app) • 💻 [GitHub Code](#https://github.com/Praveen-Raghav97/cloudex-home)
+
+</div>
+<div>
+  ### [Hunter (A Video Calling Web)](#)
+![Project Thumbnail](https://res.cloudinary.com/derlbfbjz/image/upload/v1735633082/hunt-pro1_ahqroq.png)
+
+**Description:** A brief description of your project goes here.
+
+🔗 [Live Preview](#https://hunter-video-calling.vercel.app) • 💻 [GitHub Code](#https://github.com/Praveen-Raghav97/Hunter-Video-Calling)
+
+</div>
+<div>
+  ### [Flexibble (A Project Sharing Plateform)](#)
+![Project Thumbnail](https://res.cloudinary.com/derlbfbjz/image/upload/v1731736932/abrtfcdtr3mfj2ov8kgf.png)
+
+**Description:** A dribble-inspired web application featuring real-time post sharing and a sleek design.
+
+🔗 [Live Preview](#) • 💻 [GitHub Code](#https://github.com/Praveen-Raghav97/flexibble-app)
+
+</div>
+</div>
+
+
 ### 1. [Frenmy (A Real Time Chat App)](https://github.com/Praveen-Raghav97/chat-app-home)
 > A fully responsive, A real-time chat app  dashboard built using the MERN stack and sokit.io daisy ui, Material UI, and Tailwind CSS.
 
