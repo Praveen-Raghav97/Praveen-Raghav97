@@ -89,7 +89,7 @@ I’m **Praveen Raghav**, a passionate **Full Stack Developer** and **MERN Stack
 <div style="display: flex; gap: 10px; overflow-x: auto; white-space: nowrap; padding: 10px;">
 
 <!-- Frenmy -->
-<div style="min-width: 350px; border: 1px solid #ddd; border-radius: 10px; padding: 10px; text-align: center;">
+<div style="width: 350px; border: 1px solid #ddd; border-radius: 10px; padding: 10px; text-align: center;">
   <img src="https://res.cloudinary.com/derlbfbjz/image/upload/v1738163156/Screenshot_2025-01-29_203512_yvmwje.png" width="100%" alt="Frenmy Thumbnail"/>
   <h3>Frenmy (A Real-Time Chat Web)</h3>
   <p>A real-time chat app built with the MERN stack, Socket.io, Daisy UI, and Tailwind CSS.</p>
@@ -102,7 +102,7 @@ I’m **Praveen Raghav**, a passionate **Full Stack Developer** and **MERN Stack
 </div>
 
 <!-- Cloudex -->
-<div style="min-width: 350px; border: 1px solid #ddd; border-radius: 10px; padding: 10px; text-align: center;">
+<div style="width: 350px; border: 1px solid #ddd; border-radius: 10px; padding: 10px; text-align: center;">
   <img src="https://res.cloudinary.com/derlbfbjz/image/upload/v1735470243/Screenshot_2024-12-29_153425_va7elo.png" width="100%" alt="Cloudex Thumbnail"/>
   <h3>Cloudex (A Cloud Web Storage)</h3>
   <p>Cloud storage and file management for developers, businesses, and individuals.</p>
@@ -115,7 +115,7 @@ I’m **Praveen Raghav**, a passionate **Full Stack Developer** and **MERN Stack
 </div>
 
 <!-- Hunter -->
-<div style="min-width: 350px; border: 1px solid #ddd; border-radius: 10px; padding: 10px; text-align: center;">
+<div style="width: 350px; border: 1px solid #ddd; border-radius: 10px; padding: 10px; text-align: center;">
   <img src="https://res.cloudinary.com/derlbfbjz/image/upload/v1735633082/hunt-pro1_ahqroq.png" width="100%" alt="Hunter Thumbnail"/>
   <h3>Hunter (A Video Calling Web)</h3>
   <p>A modern video calling application.</p>
@@ -128,7 +128,7 @@ I’m **Praveen Raghav**, a passionate **Full Stack Developer** and **MERN Stack
 </div>
 
 <!-- Flexibble -->
-<div style="min-width: 350px; border: 1px solid #ddd; border-radius: 10px; padding: 10px; text-align: center;">
+<div style="width: 350px; border: 1px solid #ddd; border-radius: 10px; padding: 10px; text-align: center;">
   <img src="https://res.cloudinary.com/derlbfbjz/image/upload/v1731736932/abrtfcdtr3mfj2ov8kgf.png" width="100%" alt="Flexibble Thumbnail"/>
   <h3>Flexibble (A Project Sharing Platform)</h3>
   <p>A Dribbble-inspired web application featuring real-time post sharing and a sleek design.</p>
@@ -147,18 +147,6 @@ I’m **Praveen Raghav**, a passionate **Full Stack Developer** and **MERN Stack
 
 
 
-### 1. [Frenmy (A Real Time Chat App)](https://github.com/Praveen-Raghav97/chat-app-home)
-> A fully responsive, A real-time chat app  dashboard built using the MERN stack and sokit.io daisy ui, Material UI, and Tailwind CSS.
-
-
-### 2. [Cloudex (Web Storage App) ](https://github.com/Praveen-Raghav97/cloudex-home)
->  cloud storage and file management. With CloudEx, experience the power of secure, fast, and user-friendly cloud storage designed for developers, businesses, and individuals alike.
- 
- ### 3. [flexibble (A Project Sharing Plateform)](https://github.com/Praveen-Raghav97/flexibble-app)
-> A dribble-inspired web application featuring real-time post sharing and a sleek design.
- 
-### 4. [Movie Ticket Booking App](https://github.com/Praveen-Raghav97/Movie-Ticket-Booking)
-> A MERN-based application with user and admin panels for booking movie tickets.
 
 
 
