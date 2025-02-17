@@ -82,44 +82,68 @@ I’m **Praveen Raghav**, a passionate **Full Stack Developer** and **MERN Stack
 
 ## 🧑‍💻 Projects
 
+<div align="center">
+  
+### 🚀 Frenmy (A Real-Time Chat Web)
+  
 <div>
-    <div>
-  ### [Frenmy (A Real Time Chat Web)](#)
-![Project Thumbnail](https://res.cloudinary.com/derlbfbjz/image/upload/v1738163156/Screenshot_2025-01-29_203512_yvmwje.png)
-
-**Description:** A fully responsive, A real-time chat app  dashboard built using the MERN stack and sokit.io daisy ui, Material UI, and Tailwind CSS.
-
-🔗 [Live Preview](#https://chat-app-home.vercel.app) • 💻 [GitHub Code](#https://github.com/Praveen-Raghav97/chat-app-home)
-
+  <img src="https://res.cloudinary.com/derlbfbjz/image/upload/v1738163156/Screenshot_2025-01-29_203512_yvmwje.png" width="600" alt="Frenmy Thumbnail"/>
+  <h3>A fully responsive real-time chat app built using the MERN stack, Socket.io, Daisy UI, Material UI, and Tailwind CSS.</h3>
+  <a href="https://chat-app-home.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Preview-%2300C853?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Praveen-Raghav97/chat-app-home" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Code-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
+  
+---
+
+### ☁️ Cloudex (A Cloud Web Storage)
+
 <div>
-  ### [Cloudex (A Cloude Web Storage)](#)
-![Project Thumbnail](https://res.cloudinary.com/derlbfbjz/image/upload/v1735470243/Screenshot_2024-12-29_153425_va7elo.png)
-
-**Description:** cloud storage and file management. With CloudEx, experience the power of secure, fast, and user-friendly cloud storage designed for developers, businesses, and individuals alike.
-
-🔗 [Live Preview](#https://cloudex-home.vercel.app) • 💻 [GitHub Code](#https://github.com/Praveen-Raghav97/cloudex-home)
-
+  <img src="https://res.cloudinary.com/derlbfbjz/image/upload/v1735470243/Screenshot_2024-12-29_153425_va7elo.png" width="600" alt="Cloudex Thumbnail"/>
+  <h3>Cloud storage and file management platform for developers, businesses, and individuals.</h3>
+  <a href="https://cloudex-home.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Preview-%2300C853?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Praveen-Raghav97/cloudex-home" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Code-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
+
+---
+
+### 📹 Hunter (A Video Calling Web)
+
 <div>
-  ### [Hunter (A Video Calling Web)](#)
-![Project Thumbnail](https://res.cloudinary.com/derlbfbjz/image/upload/v1735633082/hunt-pro1_ahqroq.png)
-
-**Description:** A brief description of your project goes here.
-
-🔗 [Live Preview](#https://hunter-video-calling.vercel.app) • 💻 [GitHub Code](#https://github.com/Praveen-Raghav97/Hunter-Video-Calling)
-
+  <img src="https://res.cloudinary.com/derlbfbjz/image/upload/v1735633082/hunt-pro1_ahqroq.png" width="600" alt="Hunter Thumbnail"/>
+  <h3>A modern video calling application.</h3>
+  <a href="https://hunter-video-calling.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Preview-%2300C853?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Praveen-Raghav97/Hunter-Video-Calling" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Code-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
+
+---
+
+### 🎨 Flexibble (A Project Sharing Platform)
+
 <div>
-  ### [Flexibble (A Project Sharing Plateform)](#)
-![Project Thumbnail](https://res.cloudinary.com/derlbfbjz/image/upload/v1731736932/abrtfcdtr3mfj2ov8kgf.png)
-
-**Description:** A dribble-inspired web application featuring real-time post sharing and a sleek design.
-
-🔗 [Live Preview](#) • 💻 [GitHub Code](#https://github.com/Praveen-Raghav97/flexibble-app)
+  <img src="https://res.cloudinary.com/derlbfbjz/image/upload/v1731736932/abrtfcdtr3mfj2ov8kgf.png" width="600" alt="Flexibble Thumbnail"/>
+  <h3>A Dribbble-inspired web application featuring real-time post sharing and a sleek design.</h3>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Preview-%2300C853?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Praveen-Raghav97/flexibble-app" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Code-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
 </div>
-</div>
+
 
 
 ### 1. [Frenmy (A Real Time Chat App)](https://github.com/Praveen-Raghav97/chat-app-home)
