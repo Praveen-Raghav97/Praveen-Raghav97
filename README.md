@@ -90,7 +90,7 @@ I’m **Praveen Raghav**, a passionate **Full Stack Developer** and **MERN Stack
 
 <!-- Frenmy -->
 <div style="width: 350px; border: 1px solid #ddd; border-radius: 10px; padding: 10px; text-align: center;">
-  <img style="width:600px" src="https://res.cloudinary.com/derlbfbjz/image/upload/v1738163156/Screenshot_2025-01-29_203512_yvmwje.png" width="100%" alt="Frenmy Thumbnail"/>
+  <img  src="https://res.cloudinary.com/derlbfbjz/image/upload/v1738163156/Screenshot_2025-01-29_203512_yvmwje.png" width="100%" alt="Frenmy Thumbnail"/>
   <h3>Frenmy (A Real-Time Chat Web)</h3>
   <p>A real-time chat app built with the MERN stack, Socket.io, Daisy UI, and Tailwind CSS.</p>
   <a href="https://chat-app-home.vercel.app" target="_blank">
@@ -103,7 +103,7 @@ I’m **Praveen Raghav**, a passionate **Full Stack Developer** and **MERN Stack
 
 <!-- Cloudex -->
 <div style="width: 350px; border: 1px solid #ddd; border-radius: 10px; padding: 10px; text-align: center;">
-  <img style="width:600px" src="https://res.cloudinary.com/derlbfbjz/image/upload/v1735470243/Screenshot_2024-12-29_153425_va7elo.png" width="100%" alt="Cloudex Thumbnail"/>
+  <img  src="https://res.cloudinary.com/derlbfbjz/image/upload/v1735470243/Screenshot_2024-12-29_153425_va7elo.png" width="100%" alt="Cloudex Thumbnail"/>
   <h3>Cloudex (A Cloud Web Storage)</h3>
   <p>Cloud storage and file management for developers, businesses, and individuals.</p>
   <a href="https://cloudex-home.vercel.app" target="_blank">
@@ -116,7 +116,7 @@ I’m **Praveen Raghav**, a passionate **Full Stack Developer** and **MERN Stack
 
 <!-- Hunter -->
 <div style="width:350px; border: 1px solid #ddd; border-radius: 10px; padding: 10px; text-align: center;">
-  <img  style="width:600px" src="https://res.cloudinary.com/derlbfbjz/image/upload/v1735633082/hunt-pro1_ahqroq.png" width="100%" alt="Hunter Thumbnail"/>
+  <img  src="https://res.cloudinary.com/derlbfbjz/image/upload/v1735633082/hunt-pro1_ahqroq.png" width="100%" alt="Hunter Thumbnail"/>
   <h3>Hunter (A Video Calling Web)</h3>
   <p>A modern video calling application.</p>
   <a href="https://hunter-video-calling.vercel.app" target="_blank">
@@ -129,10 +129,10 @@ I’m **Praveen Raghav**, a passionate **Full Stack Developer** and **MERN Stack
 
 <!-- Flexibble -->
 <div style="width: 350px; border: 1px solid #ddd; border-radius: 10px; padding: 10px; text-align: center;">
-  <img style="width:600px" src="https://res.cloudinary.com/derlbfbjz/image/upload/v1731736932/abrtfcdtr3mfj2ov8kgf.png" width="100%" alt="Flexibble Thumbnail"/>
+  <img  src="https://res.cloudinary.com/derlbfbjz/image/upload/v1731736932/abrtfcdtr3mfj2ov8kgf.png" width="100%" alt="Flexibble Thumbnail"/>
   <h3>Flexibble (A Project Sharing Platform)</h3>
   <p>A Dribbble-inspired web application featuring real-time post sharing and a sleek design.</p>
-  <a href="#" target="_blank">
+  <a href="https://flexibble-app-beta.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Preview-%2300C853?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/Praveen-Raghav97/flexibble-app" target="_blank">
